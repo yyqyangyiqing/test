@@ -1,0 +1,10 @@
+export const UPDATE_BANNER= 'UPDATE_BANNER';
+export const UPDATE_HOME = 'UPDATE_HOME';
+export const UPDATE_MARKET = 'UPDATE_MARKET';
+export const CHANGE_ITEM = 'CHANGE_ITEM';
+export const ADD_ITEM = 'ADD_ITEM';
+export const UPDATE_USER = 'UPDATE_USER';
+export const CLEAR_USER = 'CLEAR_USER';
+export const VIEW_VLOADING = "VIEW_VLOADING";
+export const VIEW_Bhead = 'VIEW_Bhead';
+export const UPDATE_DETAIL = 'UPDATE_DETAIL'
